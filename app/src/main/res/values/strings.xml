@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AnimalAgeCalculator</string>
+
+    <string-array name="animalNames">
+        <item>Select One</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Horse</item>
+        <item>Cow</item>
+        <item>Snake</item>
+
+    </string-array>
+
+
+</resources>
